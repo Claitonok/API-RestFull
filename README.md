@@ -7,7 +7,7 @@
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/concluido-gree?style=for-the-badge&logoSize=auto&label=status"/>
-  <img src="https://img.shields.io/github/directory-file-count/Claitonok/API-RestFull"/>
+  <img src="https://img.shields.io/badge/File-gree?style=for-the-badge&logoSize=auto&label=3"/>
 </p>
 
 
