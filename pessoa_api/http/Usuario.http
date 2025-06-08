@@ -1,0 +1,17 @@
+
+
+
+
+GET http://localhost:8083/api/usuario
+
+
+### ISSO SERVE PARA SEPARAR AS REQUISIÇÕES!! 
+
+PUT http://localhost:8083/api/usuario
+Content-Type: application/json
+
+{
+    "name":"Nome qualquer",
+    "email": "Email qualquer",
+    "password":"1234asd"
+}
