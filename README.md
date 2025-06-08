@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/100%25-gree?style=for-the-badge&logoSize=auto&label=Java"/>
   <img src="https://img.shields.io/badge/100%25-gree?style=for-the-badge&logoSize=auto&label=spring%20boot"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/concluido-gree?style=for-the-badge&logoSize=auto&label=status"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/
   <img src="https://img.shields.io/badge/File-gree?style=for-the-badge&logoSize=auto&label=3"/>
 </p>
 
@@ -73,4 +72,4 @@ Claitonok
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2025 - Projeto ApiRESTFull
