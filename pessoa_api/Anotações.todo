@@ -1,0 +1,19 @@
+
+
+TAMBÉM PODERIA SER DESSA FORMA!!
+
+@Entity
+@Table(name="NOME DA TABELA")
+public class UserEntity {
+    @Id
+    private Long id;
+
+    @ColumnDefault("John Snow")
+    private String name;
+
+    @ColumnDefault("25")
+    private Integer age;
+
+    @ColumnDefault("false")
+    private Boolean locked;
+}

@@ -5,7 +5,8 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-@Entity //ELE FAZ COM OQUE A CLASSE SEJA ULTILIZADA PARA CRIAR A TABELA NO BANCO DE DADOS
+
+    @Entity //ELE FAZ COM OQUE A CLASSE SEJA ULTILIZADA PARA CRIAR A TABELA NO BANCO DE DADOS
     public class Usuario {
 
      //#region
