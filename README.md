@@ -25,7 +25,6 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-
 ## Descrição do projeto 
 
 <p align="justify">
@@ -37,17 +36,15 @@
 ## Funcionalidades
 
 :heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
+>> GET - obterTodos-os-usuarios,
+>> GET - obterPodId,
+>> POST - Cria um dados no banco de dados,
+>> PUT - Atualizar,
+>> Delete - Deletar um dado.
 
 ## Layout ou Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: http://localhost:8080/api/usuario
-
 
 ## Pré-requisitos
 
