@@ -35,11 +35,15 @@
 ## Funcionalidades
 
 :heavy_check_mark: Funcionalidade 1  
->> GET - obterTodos-os-usuarios,
->> GET - obterPodId,
->> POST - Cria um dados no banco de dados,
->> PUT - Atualizar,
->> Delete - Deletar um dado.
+>> ![Static Badge](https://img.shields.io/badge/GET-red) - obterTodos-os-usuarios.
+>> <br>
+>> ![Static Badge](https://img.shields.io/badge/GET-red) - obterPodId.
+>> <br>
+>> ![Static Badge](https://img.shields.io/badge/POST-gree) - Cria um dados no banco de dados.
+>> <br>
+>> ![Static Badge](https://img.shields.io/badge/PUT-gree) - Atualizar.
+>> <br>
+>> ![Static Badge](https://img.shields.io/badge/DELET-red) - Deletar um dado.
 
 ## Layout ou Deploy da Aplicação :dash:
 
