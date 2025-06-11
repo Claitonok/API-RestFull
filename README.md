@@ -37,9 +37,9 @@
 :heavy_check_mark: Funcionalidade 1  
 >> ![Static Badge](https://img.shields.io/badge/GET-red) - obterTodos-os-usuarios.
 >> <br>
->> ![Static Badge](https://img.shields.io/badge/GET-red) - obterPodId.
+>> ![Static Badge](https://img.shields.io/badge/GET-red) - obterPorId.
 >> <br>
->> ![Static Badge](https://img.shields.io/badge/POST-gree) - Cria um dados no banco de dados.
+>> ![Static Badge](https://img.shields.io/badge/POST-gree) - Cria um dado no banco de dados.
 >> <br>
 >> ![Static Badge](https://img.shields.io/badge/PUT-gree) - Atualizar.
 >> <br>
